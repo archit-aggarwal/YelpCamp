@@ -1,0 +1,11 @@
+{
+  "name": "yelpcamp",
+  "version": "1.0.0",
+  "description": "Practice Project Built Using HTML, CSS, Javascript, NodeJS, ExpressJS, EJS, MongoDB and Mongoose.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Archit Aggarwal",
+  "license": "ISC"
+}
