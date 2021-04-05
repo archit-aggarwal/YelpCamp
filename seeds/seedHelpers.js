@@ -1,5 +1,3 @@
-// Generate Random Campgrounds by Combining Random Description & Places
-// (only once) => For Dummy Data
 module.exports.descriptors = [
     'Forest',
     'Ancient',

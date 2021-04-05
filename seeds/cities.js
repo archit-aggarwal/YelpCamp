@@ -1,4 +1,3 @@
-// Dataset of Cities to be Seeded (Initially Without any User Input)
 module.exports = [
     {
         city: "New York",
