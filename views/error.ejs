@@ -1,0 +1,8 @@
+<!-- This is a Error Template built using Bootstrap which currently shows
+ Error Message, Error Stack in Red & Error Status Code in Console. -->
+
+<% layout('layouts/boilerplate')%>
+<div class="alert alert-danger" role="alert">
+    <h4 class="alert-heading"><%=err.message%></h4>
+    <p><%= err.stack %></p>
+</div>
